@@ -1,6 +1,6 @@
 # Grocery budget app
 
-## Reactjs,Tailwind css todo app
+### Reactjs,Tailwind css todo app
 
 - Add and edite tiems on a single input.
 - storing data on a Local storage.
