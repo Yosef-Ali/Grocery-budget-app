@@ -3,6 +3,7 @@
 ### Reactjs,Tailwind css todo app
 
 - Add and edit items on a single input.
+- Handling Alerts
 - storing data on a Local storage.
 - applying conditional tailwind css on a component.
 
